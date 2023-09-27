@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marri Grace Morata!</h1>
 <h3 align="center">A junior BS Computer Science student</h3>
-
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1600/0*K2WLMTExLyida7OR.gif" width="300" height="250">
+  
 - 👨‍💻 I’m currently working on **an e-commerce website**
 - 🌱 I’m currently learning **Web Development**
 - 📫 You can reach me at **moratamarrigrace0204@gmail.com**
